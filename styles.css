@@ -76,6 +76,7 @@ a{
 }
 .top_section{
     padding: 180px 130px 70px 50px;
+    background-color: rgb(235, 235, 235);
 }
 .top_section p{
     font-size: 24px;
