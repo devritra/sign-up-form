@@ -22,7 +22,6 @@ body{
     justify-content: center;
 }
 .main{
-    background-color: aqua;
     width: 1440px;
     height: 1024px;
     display: flex;
@@ -30,7 +29,7 @@ body{
 .main_left{
     background-image: url(./img/ivan-bandura-2FEE6BR343k-unsplash.jpg); 
     background-size: 100% 100%;
-    width: 35%;
+    width: 40%;
     height: 100%;
     position: relative;
 }
@@ -67,4 +66,15 @@ a{
 }
 .main_left>p:first-of-type{
     margin-top: 970px;
+}
+.main_right{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+}
+.top_section{
+    padding: 150px 140px 70px 50px;
+}
+.top_section p{
+    font-size: 24px;
 }
