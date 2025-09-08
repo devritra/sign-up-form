@@ -56,3 +56,15 @@ body{
     text-align: center;
     padding-top: 40px;
 }
+.main_left>p,
+.main_left>p~p{
+    color: white;
+    display: block;
+    text-align: center;
+}
+a{
+    color: white;
+}
+.main_left>p:first-of-type{
+    margin-top: 970px;
+}
