@@ -63,7 +63,7 @@ body{
     display: block;
     text-align: center;
 }
-a{
+.main_left a{
     color: white;
 }
 .main_left>p:first-of-type{
