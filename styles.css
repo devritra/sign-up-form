@@ -102,6 +102,7 @@ form{
     gap: 2px;
 }
 input{
+    border-style:solid;
     width: 300px;
     height: 37px;
     border-radius: 5px;
