@@ -119,6 +119,7 @@ label{
 input:focus{
     border-color: hwb(212 48% 0%);
     box-shadow: 1px 1px 5px hwb(212 48% 0%);
+    outline-color: hwb(212 48% 0%);
 }
 input:invalid{
     border: 2px solid red;
